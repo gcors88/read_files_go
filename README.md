@@ -3,7 +3,7 @@
 ## 📕 Índice
 
 - [Sobre](#Sobre)
-- [Tecnologias Utilizadas](#Tecnologias)
+- [Tecnologias Utilizadas](#Tecnologias_Utilizadas)
 - [Iniciando o projeto](#Iniciando)
 - [Licença](#Licença)
 - [Contatos](#Contatos)
@@ -20,7 +20,7 @@ Apos percorrer cada arquivo e fazer a leitura dos mesmos é feito um upsert do d
 
 <!-- TECHNOLOGIES -->
 
-# Tecnologias
+# Tecnologias_Utilizadas
 
 - **Tecnologias**
   - [Go](https://go.dev/)
