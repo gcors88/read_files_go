@@ -1,4 +1,4 @@
-<h1 align="center"> Read Files Project GO </h1>
+<h1 align="center"> Read Files - GOLANG Project </h1>
 
 ## Índice
 
